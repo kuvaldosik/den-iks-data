@@ -1,9 +1,9 @@
 {
-  "version": 2026111101,
+  "version": 2026111102,
   "plans": [
     { "id": "m1", "title": "1 месяц",  "price": 99,  "months": 1,  "days": 30,  "emoji": "📅" },
     { "id": "m3", "title": "3 месяца", "price": 249, "months": 3,  "days": 90,  "emoji": "🗓" },
     { "id": "y1", "title": "1 год",    "price": 699, "months": 12, "days": 365, "emoji": "🔥" }
   ],
-  "revoked": ["6e264825491184c0","8feef4cd296ad726"]
+  "revoked": ["6e264825491184c0"]
 }
