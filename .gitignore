@@ -1,1 +1,4 @@
 *.pem
+
+publish.ps1
+publish-bro.ps1
